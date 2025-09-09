@@ -1,0 +1,284 @@
+{
+    "titleSwitch": "Switch",
+    "linkSwitch": "false",
+    
+    "titleATV": "ID_ATV",
+    "linkATV": "",
+    "linkYayinAkisiATV": "",
+    "linkWatchOriginalATV": "",
+    
+    "titleKANALD": "ID_KANALD",
+    "linkKANALD": "",
+    "linkYayinAkisiKANALD": "",
+    "linkWatchOriginalKANALD": "",
+    
+    "titleSHOWTV": "ID_SHOWTV",
+    "linkSHOWTV": "",
+    "linkYayinAkisiSHOWTV": "",
+    "linkWatchOriginalSHOWTV": "",
+    
+    "titleSTARTV": "ID_STAR",
+    "linkSTARTV": "",
+    "linkYayinAkisiSTARTV": "",
+    "linkWatchOriginalSTARTV": "",
+    
+    "titleFOXTV": "ID_FOX",
+    "linkFOXTV": "",
+    "linkYayinAkisiFOXTV": "",
+    "linkWatchOriginalFOXTV": "",
+    
+    "titleTRT1": "ID_TRT1",
+    "linkTRT1": "",
+    "linkYayinAkisiTRT1": "",
+    "linkWatchOriginalTRT1": "",
+    
+    "titleTRT2": "ID_TRT2",
+    "linkTRT2": "",
+    "linkYayinAkisiTRT2": "",
+    "linkWatchOriginalTRT2": "",
+    
+    "titleNTV": "ID_NTV",
+    "linkNTV": "",
+    "linkYayinAkisiNTV": "",
+    "linkWatchOriginalNTV": "",
+    
+    "titleBLOOMBERGTVPLUS": "ID_BLOOMBERGTVPLUS",
+    "linkBLOOMBERGTVPLUS": "",
+    "linkYayinAkisiBLOOMBERGTVPLUS": "",
+    "linkWatchOriginalBLOOMBERGTVPLUS": "",
+    
+    "titleFOXNEWS": "ID_FOXNEWS",
+    "linkFOXNEWS": "",
+    "linkYayinAkisiFOXNEWS": "",
+    "linkWatchOriginalFOXNEWS": "",
+    
+    "titleBBCNOW": "ID_BBCNOW",
+    "linkBBCNOW": "",
+    "linkYayinAkisiBBCNOW": "",
+    "linkWatchOriginalBBCNOW": "",
+    
+    "titleCNNINTERNATIONAL": "ID_CNNINTERNATIONAL",
+    "linkCNNINTERNATIONAL": "",
+    "linkYayinAkisiCNNINTERNATIONAL": "",
+    "linkWatchOriginalCNNINTERNATIONAL": "",
+    
+    "titleSKYNEWSUK": "ID_SKYNEWSUK",
+    "linkSKYNEWSUK": "",
+    "linkYayinAkisiSKYNEWSUK": "",
+    "linkWatchOriginalSKYNEWSUK": "",
+    
+    "titleEKOTURK": "ID_EKOTÜRK",
+    "linkEKOTURK": "",
+    "linkYayinAkisiEKOTURK": "",
+    "linkWatchOriginalEKOTURK": "",
+    
+    "titleBLOOMBERGHT": "ID_BLOOMBERGHT",
+    "linkBLOOMBERGHT": "",
+    "linkYayinAkisiBLOOMBERGHT": "",
+    "linkWatchOriginalBLOOMBERGHT": "",
+    
+    "titleTLC": "ID_TLC",
+    "linkTLC": "",
+    "linkYayinAkisiTLC": "",
+    "linkWatchOriginalTLC": "",
+    
+    "titleTV2": "ID_TV2",
+    "linkTV2": "",
+    "linkYayinAkisiTV2": "",
+    "linkWatchOriginalTV2": "",
+    
+    "titleKANAL7": "ID_KANAL7",
+    "linkKANAL7": "",
+    "linkYayinAkisiKANAL7": "",
+    "linkWatchOriginalKANAL7": "",
+    
+    "titleKANAL24": "ID_KANAL24",
+    "linkKANAL24": "",
+    "linkYayinAkisiKANAL24": "",
+    "linkWatchOriginalKANAL24": "",
+    
+    "titleHABERTURK": "ID_HABERTÜRK",
+    "linkHABERTURK": "",
+    "linkYayinAkisiHABERTURK": "",
+    "linkWatchOriginalHABERTURK": "",
+    
+    "titleCNNTURK": "ID_CNNTURK",
+    "linkCNNTURK": "",
+    "linkYayinAkisiCNNTURK": "",
+    "linkWatchOriginalCNNTURK": "",
+    
+    "titleTRTHABER": "ID_TRTHABER",
+    "linkTRTHABER": "",
+    "linkYayinAkisiTRTHABER": "",
+    "linkWatchOriginalTRTHABER": "",
+    
+    "titleTRTBELGESEL": "ID_TRTBELGESEL",
+    "linkTRTBELGESEL": "",
+    "linkYayinAkisiTRTBELGESEL": "",
+    "linkWatchOriginalTRTBELGESEL": "",
+    
+    "titleTRTCOCUK": "ID_TRTÇOCUK",
+    "linkTRTCOCUK": "",
+    "linkYayinAkisiTRTCOCUK": "",
+    "linkWatchOriginalTRTCOCUK": "",
+    
+    "titleTRTCOCUKDIYANET": "ID_TRTÇOCUKDİYANET",
+    "linkTRTCOCUKDIYANET": "",
+    "linkYayinAkisiTRTCOCUKDIYANET": "",
+    "linkWatchOriginalTRTCOCUKDIYANET": "",
+    
+    "titleCARTOONNETWORK": "ID_CARTOONNETWORK",
+    "linkCARTOONNETWORK": "",
+    "linkYayinAkisiCARTOONNETWORK": "",
+    "linkWatchOriginalCARTOONNETWORK": "",
+    
+    "titleMINIKACOCUK": "ID_MİNİKAÇOCUK",
+    "linkMINIKACOCUK": "",
+    "linkYayinAkisiMINIKACOCUK": "",
+    "linkWatchOriginalMINIKACOCUK": "",
+    
+    "titleMINIKAGO": "ID_MİNİKAGO",
+    "linkMINIKAGO": "",
+    "linkYayinAkisiMINIKAGO": "",
+    "linkWatchOriginalMINIKAGO": "",
+    
+    "titleEBA": "ID_EBA",
+    "linkEBA": "",
+    "linkYayinAkisiEBA": "",
+    "linkWatchOriginalEBA": "",
+    
+    "titleDIYANET": "ID_TRTDİYANET",
+    "linkDIYANET": "",
+    "linkYayinAkisiDIYANET": "",
+    "linkWatchOriginalDIYANET": "",
+    
+    "titleTV8": "ID_TV8",
+    "linkTV8": "",
+    "linkYayinAkisiTV8": "",
+    "linkWatchOriginalTV8": "",
+    
+    "titleMekkeCanli": "ID_MEKKECANLI",
+    "linkMekkeCanli": "",
+    "linkYayinAkisiMekkeCanli": "",
+    "linkWatchOriginalMekkeCanli": "",
+    
+    "titleMedineCanli": "ID_MEDİNECANLI",
+    "linkMedineCanli": "",
+    "linkYayinAkisiMedineCanli": "",
+    "linkWatchOriginalMedineCanli": "",
+    
+    "titleULKETV": "ID_ÜLKETV",
+    "linkULKETV": "",
+    "linkYayinAkisiULKETV": "",
+    "linkWatchOriginalULKETV": "",
+    
+    "titleTVNET": "ID_TVNET",
+    "linkTVNET": "",
+    "linkYayinAkisiTVNET": "",
+    "linkWatchOriginalTVNET": "",
+    
+    "titleAMERICASVOICE": "ID_AMERICASVOICE",
+    "linkAMERICASVOICE": "",
+    "linkYayinAkisiAMERICASVOICE": "",
+    "linkWatchOriginalAMERICASVOICE": "",
+    
+    "titleEURONEWS": "ID_EURONEWS",
+    "linkEURONEWS": "",
+    "linkYayinAkisiEURONEWS": "",
+    "linkWatchOriginalEURONEWS": "",
+    
+    "titleTRTWORLD": "ID_TRTWORLD",
+    "linkTRTWORLD": "",
+    "linkYayinAkisiTRTWORLD": "",
+    "linkWatchOriginalTRTWORLD": "",
+    
+    "titleTRTSPOR": "ID_TRTSPOR",
+    "linkTRTSPOR": "",
+    "linkYayinAkisiTRTSPOR": "",
+    "linkWatchOriginalTRTSPOR": "",
+    
+    "titleHTSPOR": "ID_HTSPOR",
+    "linkHTSPOR": "",
+    "linkYayinAkisiHTSPOR": "",
+    "linkWatchOriginalHTSPOR": "",
+    
+    "titleBEINSPORTSHABER": "ID_BEINSPORTSHABER",
+    "linkBEINSPORTSHABER": "",
+    "linkYayinAkisiBEINSPORTSHABER": "",
+    "linkWatchOriginalBEINSPORTSHABER": "",
+    
+    "titleRADYOVOYAGE": "ID_RADYOVOYAGE",
+    "linkRADYOVOYAGE": "",
+    "linkYayinAkisiRADYOVOYAGE": "",
+    "linkWatchOriginalRADYOVOYAGE": "",
+    
+    "titleKRALFM": "ID_KRALFM",
+    "linkKRALFM": "",
+    "linkYayinAkisiKRALFM": "",
+    "linkWatchOriginalKRALFM": "",
+    
+    "titleSHOWRADYO": "ID_SHOWRADYO",
+    "linkSHOWRADYO": "",
+    "linkYayinAkisiSHOWRADYO": "",
+    "linkWatchOriginalSHOWRADYO": "",
+    
+    "titlePOWERFM": "ID_POWERFM",
+    "linkPOWERFM": "",
+    "linkYayinAkisiPOWERFM": "",
+    "linkWatchOriginalPOWERFM": "",
+    
+    "titleTRTFM": "ID_TRTFM",
+    "linkTRTFM": "",
+    "linkYayinAkisiTRTFM": "",
+    "linkWatchOriginalTRTFM": "",
+    
+    "titleNTVRADYO": "ID_NTVRADYO",
+    "linkNTVRADYO": "",
+    "linkYayinAkisiNTVRADYO": "",
+    "linkWatchOriginalNTVRADYO": "",
+    
+    "titleDIYANETRADYO": "ID_DIYANETRADYO",
+    "linkDIYANETRADYO": "",
+    "linkYayinAkisiDIYANETRADYO": "",
+    "linkWatchOriginalDIYANETRADYO": "",
+    
+    "titleRADYOSPOR": "ID_RADYOSPOR",
+    "linkRADYOSPOR": "",
+    "linkYayinAkisiRADYOSPOR": "",
+    "linkWatchOriginalRADYOSPOR": "",
+    
+    "titleTV360": "ID_TV360",
+    "linkTV360": "",
+    "linkYayinAkisiTV360": "",
+    "linkWatchOriginalTV360": "",
+    
+    "titleDMAX": "ID_DMAX",
+    "linkDMAX": "",
+    "linkYayinAkisiDMAX": "",
+    "linkWatchOriginalDMAX": "",
+    
+    "titleTGRTHABER": "ID_TGRTHABER",
+    "linkTGRTHABER": "",
+    "linkYayinAkisiTGRTHABER": "",
+    "linkWatchOriginalTGRTHABER": "",
+    
+    "titleTBMMTV": "ID_TBMMTV",
+    "linkTBMMTV": "",
+    "linkYayinAkisiTBMMTV": "",
+    "linkWatchOriginalTBMMTV": "",
+    
+    "titleCNBCE": "ID_CNBCE",
+    "linkCNBCE": "",
+    "linkYayinAkisiCNBCE": "",
+    "linkWatchOriginalCNBCE": "",
+    
+    "titleALJAZEERA": "ID_ALJAZEERA",
+    "linkALJAZEERA": "",
+    "linkYayinAkisiALJAZEERA": "",
+    "linkWatchOriginalALJAZEERA": "",
+    
+    "title": "ID_",
+    "link": "",
+    "linkYayinAkisi": "",
+    "linkWatchOriginal": ""
+}
