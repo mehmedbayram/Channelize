@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "activeDates": [
-    "2026-08-19", "2026-08-20", "2026-08-21"
+    "2026-08-18", "2026-08-19", "2026-08-20", "2026-08-21"
   ],
   "timezone": "Europe/Istanbul",
-  "appVersion": "1.1.4"
+  "appVersion": "1.1.5"
 }
 
